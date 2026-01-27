@@ -1,0 +1,93 @@
+[07/04/23, 12:23:38 PM] Aryan Chahal: ‎Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them.
+[07/04/23, 12:23:38 PM] Aryan Chahal: Hello
+[07/04/23, 12:23:58 PM] Aryan Chahal: Hi
+[07/04/23, 12:27:07 PM] Manan Chahal: Hello
+[07/04/23, 12:27:30 PM] Manan Chahal: Test
+[07/04/23, 12:27:40 PM] Manan Chahal: .
+[07/04/23, 12:28:22 PM] Manan Chahal: T
+[07/04/23, 12:28:27 PM] Manan Chahal: E
+[07/04/23, 12:30:07 PM] Manan Chahal: S
+[07/04/23, 12:30:17 PM] Manan Chahal: T
+[07/04/23, 12:30:31 PM] Manan Chahal: .
+‎[07/04/23, 12:34:25 PM] Manan Chahal: ‎GIF omitted
+[07/04/23, 12:38:09 PM] Manan Chahal: New sound effect
+[07/04/23, 12:38:30 PM] Manan Chahal: ‎You deleted this message.
+[07/04/23, 12:41:49 PM] Manan Chahal: Check your messages
+[07/04/23, 12:41:58 PM] Manan Chahal: Aryan
+‎[07/04/23, 12:44:37 PM] Manan Chahal: ‎GIF omitted
+[07/04/23, 1:06:41 PM] Manan Chahal: Bil
+[07/04/23, 1:07:02 PM] Manan Chahal: .
+[07/04/23, 1:09:59 PM] Manan Chahal: Sus
+‎[07/04/23, 1:13:57 PM] Manan Chahal: ‎GIF omitted
+[07/04/23, 1:15:05 PM] Manan Chahal: .
+[07/04/23, 4:07:09 PM] Manan Chahal: Is the movie over
+[08/04/23, 10:51:46 PM] Aryan Chahal: No
+[08/10/23, 10:56:30 AM] Aryan Chahal: Your public key has been saved in /data/data/com.termux/files/usr/etc/ssh/ssh_host_rsa_key.pub
+The key fingerprint is:
+SHA256:YbHNDiPSqLEundQ/85mLmkW5Ne4v1eclR2ja8yrFC6E u0_a144@localhost
+The key's randomart image is:
++---[RSA 3072]----+
+|        .        |
+|     o   =       |
+|  . o o * o    . |
+|   = . + =  . o .|
+|  + . o S .o * . |
+| + . o + .E + B o|
+|. +   * ..   = B |
+| .   o *.o  . o .|
+|    o.. *+.  ... |
++----[SHA256]-----+
+Generating public/private dsa key pair.
+Your identification has been saved in /data/data/com.termux/files/usr/etc/ssh/ssh_host_dsa_key
+Your public key has been saved in /data/data/com.termux/files/usr/etc/ssh/ssh_host_dsa_key.pub
+The key fingerprint is:
+SHA256:9Z/PjX3lVHRNYDgAUBpqJMSjINTPTbACqwmIop5NozA u0_a144@localhost
+The key's randomart image is:
++---[DSA 1024]----+
+|.=+ ..+oo... .ooo|
+|= =+ ..+    o.  +|
+|Bo o=.+   .  . ..|
+|*. ..o . . .    .|
+|E  o    S   .   .|
+|o.= .        . .o|
+| + .          oo.|
+|               =+|
+|              . *|
++----[SHA256]-----+
+Generating public/private ecdsa key pair.
+Your identification has been saved in /data/data/com.termux/files/usr/etc/ssh/ssh_host_ecdsa_key
+Your public key has been saved in /data/data/com.termux/files/usr/etc/ssh/ssh_host_ecdsa_key.pub
+The key fingerprint is:
+SHA256:7JetDjOJecBYnuARBlyoUCTMqUAu/KAOUa1tYCDnEZU u0_a144@localhost
+The key's randomart image is:
++---[ECDSA 256]---+
+|B*XB=.           |
+|*O=oE.           |
+|**.+o .          |
+|=.+.oB o         |
+|o  oo = S        |
+|o      = . o     |
+| .    o B o .    |
+|       . = .     |
+|         .o      |
++----[SHA256]-----+
+Generating public/private ed25519 key pair.
+Your identification has been saved in /data/data/com.termux/files/usr/etc/ssh/ssh_host_ed25519_key
+Your public key has been saved in /data/data/com.termux/files/usr/etc/ssh/ssh_host_ed25519_key.pub
+The key fingerprint is:
+SHA256:MhPOnKFhBrVoMUgNHJD39lkPKb0bsTPZIgwDQ1pkQyI u0_a144@localhost
+The key's randomart image is:
++--[ED25519 256]--+
+|EX#..            |
+|+*+B .           |
+|..o+= o. .       |
+| . o=*.+*        |
+|   ..=O+SO       |
+|      =+O o      |
+|       . *       |
+|        .        |
+|                 |
++----[SHA256]-----+
+[07/08/24, 1:55:26 PM] Manan Chahal: ‎Voice call, ‎No answer
+‎[08/09/24, 5:33:19 PM] Manan Chahal: ‎image omitted
+‎[29/09/24, 9:19:51 AM] Aryan Chahal: WhatsApp Chat with Stemplify .zip ‎document omitted
